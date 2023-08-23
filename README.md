@@ -21,11 +21,11 @@
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zoe-mav&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="zoe-mav" /> </p>
 
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zoe-mav&theme=vision-friendly-dark&hide_border=true" alt="zoe-mav" /> </p>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoe-mav&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="zoe-mav" /> </p>
 
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=zoe-mav&theme=vision-friendly-dark&hide_border=true)<br/>-->
-
-<!-- [![](https://visitcount.itsvg.in/api?id=zoe-mav&icon=0&color=6)](https://visitcount.itsvg.in)<br/>-->
+<!-- <p align="center"> <img src="https://visitcount.itsvg.in/api?id=zoe-mav&icon=0&color=6)](https://visitcount.itsvg.in" alt="zoe-mav" /> </p><br/>-->
 
 <h2 align="center">Connect:</h2>
 <p align="center">
