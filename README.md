@@ -34,7 +34,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoe-mav&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="zoe-mav" /> </p>
 
-<p align="center">* Note : <b>Top languages is only a metric of the languages my public code consists of.</b></p>
+<p align="center">* Note : <b>Most used languages are only a metric of the languages my public code consists of.</b></p>
 <!-- <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>-->
 
 
