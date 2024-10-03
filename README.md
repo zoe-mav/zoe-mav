@@ -29,10 +29,10 @@
 
 <p align="center"><a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=vision-friendly-dark&preferLogin=false">    <img  alt="zoe-mav's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/zoe-mav?cardType=level&theme=vision-friendly-dark&preferLogin=false" />  </a> </p>
   
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zoe-mav&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="zoe-mav" /> </p>-->
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zoe-mav&theme=vision-friendly-dark&hide_border=true" alt="zoe-mav" /> </p>
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zoe-mav&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="zoe-mav" /> </p> -->
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zoe-mav&theme=vision-friendly-dark&hide_border=false" alt="zoe-mav" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoe-mav&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="zoe-mav" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoe-mav&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="zoe-mav" /> </p>
 
 <p align="center">* Note : <b>Most used languages are only a metric of the languages my public code consists of.</b></p>
 <!-- <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>-->
