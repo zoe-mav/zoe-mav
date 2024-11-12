@@ -1,9 +1,4 @@
-<!-- <h1 align="center">Hi, I'm Zoe Mavroeidi 👩🏻‍💻</h1>-->
-<!-- <p align="center"><a href="https://zoe-mav.github.io/zoemav_portfolio/">https://zoe-mav.github.io/zoemav_portfolio/</a></p>-->
-
-<!-- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zoemavroeidi&style=flat-square&color=blue" alt=""/>
-</div>-->
+<!-- <h1 align="center">Hi, I'm Zoe Mavroeidi 👩🏻‍💻</h1> -->
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Tech Stack & <a href="https://zoe-mav.github.io/zoemav_portfolio/">Portfolio</a></h1>
 
@@ -35,14 +30,12 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoe-mav&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="zoe-mav" /> </p>
 
 <p align="center">* Note : <b>Most used languages are only a metric of the languages my public code consists of.</b></p>
-<!-- <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>-->
 
-
-<h1 align="center"><img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Connect With Me</h1>
+<h1 align="center"><img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="80px" height=50px> Connect With Me</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/zoe-mavroeidi/" target="blank"><img align="center"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       height="40" width="40" /></a>
   </p>
 
-<!-- <p align="center"> <img src="https://visitcount.itsvg.in/api?id=zoe-mav&icon=0&color=6)](https://visitcount.itsvg.in" alt="zoe-mav" /> </p><br/>-->
+<!-- <p align="center"> <img src="https://visitcount.itsvg.in/api?id=zoe-mav&icon=0&color=6)](https://visitcount.itsvg.in" alt="zoe-mav" /> </p><br/> -->
