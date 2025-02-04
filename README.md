@@ -22,10 +22,11 @@
 
 <h1 align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> GitHub Profile Stats</h1>
 
-<p align="center"><a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=vision-friendly-dark&preferLogin=false">    <img  alt="zoe-mav's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/zoe-mav?cardType=level&theme=vision-friendly-dark&preferLogin=false" />  </a> </p>
+<p align="center"><a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=vision-friendly-dark&preferLogin=false">   
+  <img  alt="zoe-mav's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/zoe-mav?cardType=level&theme=vision-friendly-dark&preferLogin=false" />  </a> </p>
   
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zoe-mav&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="zoe-mav" /> </p> -->
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zoe-mav&theme=vision-friendly-dark&hide_border=false" alt="zoe-mav" /> </p>
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zoe-mav&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true" alt="zoe-mav" /> </p> -->
+<!-- <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zoe-mav&theme=vision-friendly-dark&hide_border=false" alt="zoe-mav" /> </p> -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoe-mav&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="zoe-mav" /> </p>
 
