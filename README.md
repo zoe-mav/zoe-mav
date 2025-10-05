@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Zoe Mavroeidi 👩🏻‍💻</h1> 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://zoe-mav.github.io/zoemav_portfolio/" target="_blank"><b>🌐 Visit My Portfolio</b></a>
-</p>
+</p> -->
 
 ---
 
