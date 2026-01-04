@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Zoe Mavroeidi</h1>
-  <h3>Co-Founder & CTO @ <a href="https://orion.finance">Orion Finance</a></h3>
+  <h3>Co-Founder & CTO @ <a href="https://www.orionfinance.ai">Orion Finance</a></h3>
 </div>
 
 ---
