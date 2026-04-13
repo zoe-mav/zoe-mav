@@ -25,11 +25,11 @@
   <h2>📊 GitHub Stats</h2>
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/user-stats/zoe-mav?cardType=level&theme=vision-friendly-dark">
     <img alt="zoe-mav's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/zoe-mav?cardType=level&theme=vision-friendly-dark" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=zoe-mav&theme=vision-friendly-dark">
