@@ -19,7 +19,7 @@
   
 </div>
 
----
+<!-- ---
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
@@ -31,13 +31,14 @@
   </a>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=zoe-mav&theme=vision-friendly-dark">
     <img alt="zoe-mav's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zoe-mav&theme=vision-friendly-dark" />
   </a>
-</p>
+</p> -->
 
 ---
+
 
 <div align="center">
   <h2>🤝 Let's Connect!</h2>
